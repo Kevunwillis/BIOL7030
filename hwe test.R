@@ -67,7 +67,7 @@ ggsave(p1, file="~/test_plot1.png")
 
 
 
-> test_funHW <- function(p) {
+ test_funHW <- function(p) {
   +   pp <- p^2
   +   qq <- (1-p)^2
   +   pq <- 2*p*(1-p)
